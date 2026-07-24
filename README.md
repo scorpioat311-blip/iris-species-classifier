@@ -22,7 +22,7 @@ matplotlib
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/your-username/iris-knn-classifier.git
+git clone https://github.com/scorpioat311-blip/iris-species-classifier.git
 cd iris-knn-classifier
 pip install -r requirements.txt
 
