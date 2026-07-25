@@ -20,17 +20,19 @@ matplotlib
 
 ⚡ Quick Start
 
-Clone the repo and install dependencies:
-
+1.Clone the repo and install dependencies:
+```bash
 git clone https://github.com/scorpioat311-blip/iris-species-classifier.git
+```
+2.Install dependencies 
+```bash
 cd iris-knn-classifier
 pip install -r requirements.txt
-
-Run the script:
-
+```
+3.Run the script:
+```bash
 Iris_Flower_Classifier.py
-
-You should see the dataset summary, confusion matrix, and F1 score printed to the console.
+```
 
 📂 Project Structure
 
