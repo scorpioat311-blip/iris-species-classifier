@@ -1,4 +1,4 @@
-🌸 Iris Flower Classifier
+#🌸 Iris Flower Classifier #
 
 Teaching a machine to tell flowers apart — no manual rules, just data.
 A small supervised learning project that classifies Iris flowers into three species (Setosa, Versicolor, Virginica) using K-Nearest Neighbors. Built as part of an AI internship to get hands-on with the full ML pipeline: scaling, splitting, training, and evaluating — before moving on to anything fancier like neural networks.
