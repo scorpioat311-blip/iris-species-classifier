@@ -36,9 +36,8 @@ Iris_Flower_Classifier.py
 
 📂 Project Structure
 
-iris-knn-classifier/
-├── knn_project.py       # main script: load, scale, split, train, evaluate
-├── requirements.txt     # dependencies
+Iris-Flower-Classifier/
+├── Iris-Flower-Classifier_project.py       # main script: load, scale, split, train, evaluate
 └── README.md
 
 📈 Results
