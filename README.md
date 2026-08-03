@@ -35,11 +35,11 @@ Iris_Flower_Classifier.py
 ```
 
 📂 Project Structure
-
+```
 Iris-Flower-Classifier/
-├── Iris-Flower-Classifier_project.py       # main script: load, scale, split, train, evaluate
+├── Iris-Flower-Classifier_project.py       # main script: load,                                                             scale,split,train, evaluate 
 └── README.md
-
+```
 📈 Results
 
 On the test split, the model classifies all three species with strong precision and recall — the confusion matrix comes out nearly clean, since Iris is a well-separated, low-noise dataset. Real-world data won't be this forgiving, which is exactly why the evaluation step (not just accuracy) matters.
